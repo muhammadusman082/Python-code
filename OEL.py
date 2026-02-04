@@ -1,6 +1,6 @@
 inventory = {
     "P001": {"name": "Laptop", "category": "Electronics", "price": 899.99, "quantity": 15, "supplier": "TechCorp"},
-    "P002": {"name": "Wireless Mouse", "category": "Electronics", "price": 25.50, "quantity": 45, "supplier": "TechCorp"},
+    "P002": {"name": "Wireless Mouse..", "category": "Electronics", "price": 25.50, "quantity": 45, "supplier": "TechCorp"},
     "P003": {"name": "Office Chair", "category": "Furniture", "price": 149.99, "quantity": 8, "supplier": "ComfortZone"},
     "P004": {"name": "Notebook", "category": "Stationery", "price": 4.99, "quantity": 100, "supplier": "PaperWorks"}
 }
@@ -229,3 +229,4 @@ def main():
         input("\nPress Enter to continue...")
 
 main()
+
